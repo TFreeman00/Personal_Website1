@@ -7,3 +7,10 @@ Added images on both home and about page.
 Created a transparent bottom line for navbar making the current page have a visible line under it.
 I have been experiementing with rem and working with px for styling.
 imported from font awsome
+
+<!-- update 05 DEC 23 -->
+
+Added a contact page
+created a form page
+
+created app.js for furtue updates
