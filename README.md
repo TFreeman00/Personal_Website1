@@ -10,7 +10,9 @@ imported from font awsome
 
 <!-- update 05 DEC 23 -->
 
-Added a contact page
-created a form page
+Added a contact page.
+Added a form page.
+fixed my footer via media queries to make it more responsive.
+added transition affects to submit button and fixed the link to go to the form page.
 
 created app.js for furtue updates
